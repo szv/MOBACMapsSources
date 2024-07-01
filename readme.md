@@ -16,5 +16,5 @@ Maps
   - bingmap.xml: maps from the Bing (*Microsoft*) map service - [https://www.bing.com/maps/](https://www.bing.com/maps/)
   - geoportail.bsh: maps from the IGN GeoPortal - [https://www.geoportail.gouv.fr/donnees/carte-ign](https://www.geoportail.gouv.fr/donnees/carte-ign)
   - google.xml: maps from the Google map service - [https://www.google.com/maps](https://www.google.com/maps)
-  - heresatelistemap.xml: satellite maps from the Here service - [https://opentopomap.org](https://opentopomap.org)
-  - opentopomap.xml : maps from the OpenTopo map service [https://wego.here.com/](https://wego.here.com/)
+  - heresatelistemap.xml: satellite maps from the Here service - [https://wego.here.com/](https://wego.here.com/)
+  - opentopomap.xml : maps from the OpenTopo map service - [https://opentopomap.org](https://opentopomap.org)
